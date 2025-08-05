@@ -270,7 +270,7 @@ to index the python modules and look for extensions shipped with Isaac Sim.
          cd IsaacLab
          :: create a symbolic link - requires launching Command Prompt with Administrator access
          mklink /D _isaac_sim path_to_isaac_sim
-         :: For example: mklink /D _isaac_sim C:/isaacsim
+         :: For example: mklink /D _isaac_sim C:\isaacsim
 
 
 Setting up the conda environment (optional)
